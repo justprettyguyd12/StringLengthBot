@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor
 from aiogram.types import Message
 
 
-TOKEN = '5443248088:AAGSDReJtJ5VYowDLzmD-0v84kbs6skt1Zs'
+TOKEN = '***'
 
 loop = asyncio.get_event_loop()
 bot = Bot(TOKEN, parse_mode="HTML")
